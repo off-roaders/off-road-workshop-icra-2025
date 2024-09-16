@@ -28,7 +28,7 @@
   <div class="column">
     <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%">
     <figcaption>
-        <a href=https://theairlab.org/team/wenshan/>Wenshan Wang</a>
+        <a href=https://theairlab.org/team/wenshan>Wenshan Wang</a>
     </figcaption>
   </div>
   <div class="column">
@@ -63,7 +63,7 @@
   <div class="column">
     <img src="images/speakers/trump.png" alt="trump" style="width:100%">
     <figcaption>
-        <a href=https://www.donaldjtrump.com/>Donald John Trump</a>
+        <a href=https://www.donaldjtrump.com>Donald John Trump</a>
     </figcaption>
   </div>
   <div class="column">
