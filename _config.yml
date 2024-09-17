@@ -2,8 +2,8 @@ remote_theme: tuur29/pages-themes-cayman
 title: ICRA 2025 Workshop on Resilient Off-road Autonomy
 color:
   gradient_left: "#4b5320" 
-  gradient_right: "#929637"
-  header: "#ba8a45"
+  gradient_right: "#4b5320"
+  header: "#7a560e"
   android_theme: "#000" # this default to gradient_color
   link: "#1e6bb8" # this default to gradient_color
   section_title: "#159957" # this default to gradient_color
