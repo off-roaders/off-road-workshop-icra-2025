@@ -1,5 +1,5 @@
 remote_theme: tuur29/pages-themes-cayman
-title: CVPR 2023 Workshop on Event-based Vision
+title: ICRA 2025 Workshop on Resilient Off-road Autonomy
 color:
   gradient_left: "#FF3333"
   gradient_right: "#155799"
@@ -26,6 +26,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/workshop_speakers_2023.jpg
+        path: /images/organizers/wenshan.png
         height: 630
         width: 1200
