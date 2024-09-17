@@ -1,7 +1,48 @@
 ![imagen](images/icra2025_logo.png)
 
-
 <style>
+ul{
+list-style: none;
+table-layout: fixed;
+width: 100%;
+border: none;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+   
+li {
+list-style: none;
+text-align: center;
+display: table-row;
+}
+figure {display:inline}
+figcaption {display:block}
+figure.left {float:left}
+figure.right {float:right}
+
+.left {
+float: center;
+border: none;
+padding: 10px;
+margin:0px;
+}
+figcaption {
+text-align:center;
+}
+.right {
+float: center;
+border: none;
+padding: 10px;
+margin:0px;
+}
+
+img {
+    width: 50%;
+   height: auto;
+}
+</style>
+
+<!-- <style>
 * {
   box-sizing: border-box;
 }
@@ -18,7 +59,7 @@
   clear: both;
   display: table;
 }
-</style>
+</style> -->
 
 
 ## General Information
@@ -29,40 +70,44 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 ## Organizers
 
-
-
-<div class="row">
-  <div class="column">
-    <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%">
-    <figcaption><span>
-        <a href="https://theairlab.org/team/wenshan">Wenshan Wang</a>
-    </span></figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/basti.png" alt="basti" style="width:100%">
-    <figcaption></span>
-        <a href="https://theairlab.org/team/sebastian">Sebastian Scherer</a>
-    </span></figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/sam.png" alt="sam" style="width:100%">
-    <figcaption><span>
-        <a href="https://theairlab.org/team/sam_triest/">Samuel Triest</a>
-    </span></figcaption>  
-  </div>
-  <div class="column">
-    <img src="images/organizers/cherie.png" alt="cherie" style="width:100%">
-    <figcaption><span>
-        <a href="https://cherieho.com/">Cherie Ho</a>
-    </span></figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/saich.png" alt="saich" style="width:100%">
-    <figcaption><span>
-        <a href="https://shubhraaich.github.io/">Shubhra Aich</a>
-    </span></figcaption>
-  </div>    
-</div>
+<ul>
+	<li>
+	<figure class="left"><span><a href="images/organizers/wenshan.png" target="_blank"><img alt="Explaining Reactor Design" src="images/organizers/wenshan.png"/></a> </span>
+<figcaption><span>
+<a href="https://theairlab.org/team/wenshan">Wenshan Wang</a>
+</span></figcaption>
+	<span> </span></figure>
+	<figure class="right"><span><a href="images/organizers/basti.png" target="_blank"><img alt="Explaining Reactor Design" src="images/organizers/basti.png"/></a> </span>
+<figcaption><span>
+<a href="https://theairlab.org/team/wenshan">Sebastian Scherer</a>
+</span></figcaption>
+	<span> </span></figure>
+	</li>  
+	<li>
+	<figure class="left"><span><a href="images/organizers/wenshan.png" target="_blank"><img alt="Explaining Reactor Design" src="images/organizers/wenshan.png"/></a> </span>
+<figcaption><span>
+<a href="https://theairlab.org/team/wenshan">Wenshan Wang</a>
+</span></figcaption>
+	<span> </span></figure>
+	<figure class="right"><span><a href="images/organizers/basti.png" target="_blank"><img alt="Explaining Reactor Design" src="images/organizers/basti.png"/></a> </span>
+<figcaption><span>
+<a href="https://theairlab.org/team/wenshan">Sebastian Scherer</a>
+</span></figcaption>
+	<span> </span></figure>
+	</li>  
+	<li>
+	<figure class="left"><span><a href="images/organizers/wenshan.png" target="_blank"><img alt="Explaining Reactor Design" src="images/organizers/wenshan.png"/></a> </span>
+<figcaption><span>
+<a href="https://theairlab.org/team/wenshan">Wenshan Wang</a>
+</span></figcaption>
+	<span> </span></figure>
+	<figure class="right"><span><a href="images/organizers/basti.png" target="_blank"><img alt="Explaining Reactor Design" src="images/organizers/basti.png"/></a> </span>
+<figcaption><span>
+<a href="https://theairlab.org/team/wenshan">Sebastian Scherer</a>
+</span></figcaption>
+	<span> </span></figure>
+	</li>                
+</ul>
 
 ## Speakers
 
