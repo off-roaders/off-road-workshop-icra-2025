@@ -18,6 +18,10 @@
   clear: both;
   display: table;
 }
+
+figcaption {
+font-size: 0.85em;
+}
 </style>
 
 
