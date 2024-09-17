@@ -8,7 +8,7 @@
 
 .column {
   float: left;
-  width: 50.00%;
+  width: 25.00%;
   padding: 5px;
 }
 
@@ -23,7 +23,7 @@
 
 ## General Information
 
-The field of off-road autonomy has been of great interest due to applications in various industries, such as agriculture, search and rescue, an d military operations. The dynamic and unpredictable nature of off-road environments poses unique challenges and opens avenues for all aspects of robotic research. The goal of this workshop is to engage experts and researchers in off-road autonomy, in a broad coverage of public datasets, benchmarks, software stacks, infrastructures, state estimation, semantic segmentation, traversability estimation, terrain analysis, planning, dynamics model, domain adaptation, and more.
+The field of off-road autonomy has been of great interest due to applications in various industries, such as agriculture, search and rescue, and military operations. The dynamic and unpredictable nature of off-road environments poses unique challenges and opens avenues for all aspects of robotic research. The goal of this workshop is to engage experts and researchers in off-road autonomy, in a broad coverage of public datasets, benchmarks, software stacks, infrastructures, state estimation, semantic segmentation, traversability estimation, terrain analysis, planning, dynamics model, domain adaptation, and more.
 
 This will be a full-day workshop. It will feature a mix of presentations, open panel discussions, and an invited poster session. There will be eight invited speakers and a keynote speaker to discuss their related research, thoughts, and experiences in various directions within off-road autonomy. The workshop aims to foster discussion, share insights, and encourage collaborations among experts from academia, industry, and research institutions, as well as to identify the key challenges and opportunities in the advancement of off-road autonomy technologies.
 
