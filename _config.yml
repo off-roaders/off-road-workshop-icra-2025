@@ -1,9 +1,9 @@
 remote_theme: tuur29/pages-themes-cayman
 title: ICRA 2025 Workshop on Resilient Off-road Autonomy
 color:
-  gradient_left: "#FF3333"
-  gradient_right: "#155799"
-  header: "#fff"
+  gradient_left: "#4b5320" 
+  gradient_right: "#ba8a45"
+  header: "#929637"
   android_theme: "#000" # this default to gradient_color
   link: "#1e6bb8" # this default to gradient_color
   section_title: "#159957" # this default to gradient_color
@@ -13,13 +13,8 @@ syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/
 github: 
   is_project_page: false
 
-twitter:
-  username: guillermogb
-  
-# About/contact
 author:
-  name:       Guillermo Gallego
-  url:        http://www.guillermogallego.es
+  name: Shubhra Aich
 
 defaults:
   - scope:
@@ -27,5 +22,5 @@ defaults:
     values:
       image:
         path: /images/organizers/wenshan.png
-        height: 630
-        width: 1200
+        height: 480
+        width: 640
