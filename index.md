@@ -66,17 +66,47 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 <div class="row">
   <div class="column">
-    <img src="images/speakers/trump.png" alt="trump" style="width:100%">
+    <img src="images/speakers/barfoot.png" alt="barfoot" style="width:100%">
     <figcaption>
-        <a href="https://www.donaldjtrump.com/">Donald John Trump</a>
+        <a href="http://asrl.utias.utoronto.ca/~tdb/">Tim Barfoot</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/peter.png" alt="peter" style="width:100%">
+    <img src="images/speakers/popovic.png" alt="popovic" style="width:100%">
     <figcaption>
-        <a href="https://en.wikipedia.org/wiki/Peter_Griffin">Justin Peter Griffin</a>
+        <a href="https://en.wikipedia.org/wiki/Peter_Griffin">Marija Popović</a>
     </figcaption>
   </div>
+  <div class="column">
+    <img src="images/speakers/matthies.png" alt="matthies" style="width:100%">
+    <figcaption>
+        <a href="https://robotics.jpl.nasa.gov/who-we-are/people/larry_matthies/">Larry Matthies</a>
+    </figcaption>
+  </div>  
+  <div class="column">
+    <img src="images/speakers/manocha.png" alt="manocha" style="width:100%">
+    <figcaption>
+        <a href="https://www.cs.umd.edu/people/dmanocha">Dinesh Manocha</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/speakers/young.png" alt="young" style="width:100%">
+    <figcaption>
+        <a href="https://www.darpa.mil/staff/dr-stuart-young">Stuart Young</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/speakers/myung.png" alt="myung" style="width:100%">
+    <figcaption>
+        <a href="https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/">Hyun Myung</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/speakers/hutter.png" alt="hutter" style="width:100%">
+    <figcaption>
+        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Marco Hutter</a>
+    </figcaption>
+  </div>        
 </div>
 
 
@@ -113,36 +143,35 @@ Submissions should be short papers up to 4 pages in PDF format (not counting ref
 
 ## Schedule
 
-Time | Session
+Time     | Session
 --- | ---
-8:00 | Welcome
-8:00 | Keynote 1: Make Off-Road Great Again (DJ Trump)
-9:00 | Keynote 2: The Love for Off-Road (JP Griffin)
-10:00 | Coffee break. Set up posters.
-10:30 | Poster Session: contributed papers, demos and courtesy presentations (as posters).
-12:00 | Lunch break
-13:00 | Keynote 3: XX (ZZ)
-14:00 | Keynote 4: XX (ZZ)
-15:00 | Coffee break
-15:30 | Award ceremony
-16:00 | End
-
-<!--
-- Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
-  - Coffee break
-- Session 2: Poster session: contributed papers and courtesy presentations (as posters). Live Demonstrations.
-  - Lunch break
-- Session 3: Applications, Algorithms and Architectures (Invited speakers)
-  - Coffee break
-- Session 4: Industrial Session (Invited speakers).
-- Award Ceremony and Final Panel Discussion.
--->
+8:45-9:00 | Welcome
+9:00-9:20 | Keynote 1: Radar Localization for Driving Off the Road (Tim Barfoot)
+9:20-9:40 | Keynote 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
+9:40-10:00 | Keynote 3: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
+10:00-10:20 | Coffee break.
+10:20-10:40 | Keynote 4: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
+10:40-11:00 | Keynote 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
+11:00-11:20 | Poster Oral Session A: Spotlight Talks.
+11:20-12:20 | Poster Session: Attendees can walk around to view the posters.
+12:20-1:20 | Lunch.
+1:20-1:40 | Keynote 6: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
+1:40-2:00 | Keynote 7: TBD (Marco Hutter)
+2:00-2:20 | TBD.
+2:20-2:40 | Coffee Break.
+2:40-3:00 | TBD.
+3:00-3:20 | Panel Discussion.
+3:20-3:40 | TBD.
+3:40-4:00 | Poster Oral Session B: Spotlight Talks.
+4:00-4:20 | Challenge winners present their results and methodologies.
+4:20-4:40 | Poster Session: Attendees can walk around to view the posters.
+4:40-5:00 | Closing remarks: Workshop ends.
 
 <a name="accepted-papers"></a>   
 ## Accepted Papers
 
 
-[Openreview](https://openaccess.thecvf.com/CVPR2023_workshops/EventVision)
+[Openreview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/Off-road_Autonomy#tab-accept-oral)
 
 1. [TartanDrive 2.0: More Modalities and Better Infrastructure to Further Self-Supervised Learning Research in Off-Road Driving Tasks.](https://arxiv.org/abs/2402.01913), <b><a href="https://theairlab.org/TartanDrive2/"><span style="color:tomato;">Dataset</span></a></b>,  <b><a href="https://github.com/castacks/tartan_drive_2.0"><span style="color:tomato;">Code</span></a></b>
  
