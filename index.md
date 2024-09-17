@@ -1,5 +1,5 @@
-<!-- ![imagen](images/cropped-CVPR-banner_2023.png)
--->
+![imagen](images/icra2025_logo.png)
+
 
 <style>
 * {
