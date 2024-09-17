@@ -148,7 +148,7 @@ Submissions should be short papers up to 4 pages in PDF format (not counting ref
 
 ## Schedule
 
-Time     | Session
+Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 --- | ---
 8:45-9:00 | Welcome
 9:00-9:20 | Keynote 1: Radar Localization for Driving Off the Road (Tim Barfoot)
