@@ -29,38 +29,36 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 ## Organizers
 
-
-
 <div class="row">
   <div class="column">
     <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%">
-    <figcaption><span>
+    <figcaption>
         <a href="https://theairlab.org/team/wenshan">Wenshan Wang</a>
-    </span></figcaption>
+    </figcaption>
   </div>
   <div class="column">
     <img src="images/organizers/basti.png" alt="basti" style="width:100%">
-    <figcaption></span>
+    <figcaption>
         <a href="https://theairlab.org/team/sebastian">Sebastian Scherer</a>
-    </span></figcaption>
+    </figcaption>
   </div>
   <div class="column">
     <img src="images/organizers/sam.png" alt="sam" style="width:100%">
-    <figcaption><span>
+    <figcaption>
         <a href="https://theairlab.org/team/sam_triest/">Samuel Triest</a>
-    </span></figcaption>  
+    </figcaption>  
   </div>
   <div class="column">
     <img src="images/organizers/cherie.png" alt="cherie" style="width:100%">
-    <figcaption><span>
+    <figcaption>
         <a href="https://cherieho.com/">Cherie Ho</a>
-    </span></figcaption>
+    </figcaption>
   </div>
   <div class="column">
     <img src="images/organizers/saich.png" alt="saich" style="width:100%">
-    <figcaption><span>
+    <figcaption>
         <a href="https://shubhraaich.github.io/">Shubhra Aich</a>
-    </span></figcaption>
+    </figcaption>
   </div>    
 </div>
 
@@ -69,15 +67,15 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 <div class="row">
   <div class="column">
     <img src="images/speakers/trump.png" alt="trump" style="width:100%">
-    <figcaption><span>
+    <figcaption>
         <a href="https://www.donaldjtrump.com/">Donald John Trump</a>
-    </span></figcaption>
+    </figcaption>
   </div>
   <div class="column">
     <img src="images/speakers/peter.png" alt="peter" style="width:100%">
-    <figcaption><span>
+    <figcaption>
         <a href="https://en.wikipedia.org/wiki/Peter_Griffin">Justin Peter Griffin</a>
-    </span></figcaption>
+    </figcaption>
   </div>
 </div>
 
