@@ -13,7 +13,7 @@ syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/
 github: 
   is_project_page: false
 
-author:
+author: # (c) https://sites.google.com/view/guillermogallego
   name: Shubhra Aich
 
 defaults:
