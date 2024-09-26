@@ -48,7 +48,7 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Kasi_Viswanath.jpg" alt="kasi" style="width:100%; border-radius: 50%;">
+    <img src="images/organizers/Kasi_Viswanath.png" alt="kasi" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/kasi-viswanath-4197851b6/">Kasi Viswanath</a>
     </figcaption>
@@ -106,7 +106,7 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/mateo_castro.jpg" alt="mateo" style="width:100%; border-radius: 50%;">
+    <img src="images/organizers/mateo_castro.png" alt="mateo" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://mateoguaman.com/">Mateo Guaman Castro</a>
     </figcaption>
