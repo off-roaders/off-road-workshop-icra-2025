@@ -30,7 +30,7 @@ text-align: center;
 
 The field of off-road autonomy has been of great interest due to applications in various industries, such as agriculture, search and rescue, and military operations. The dynamic and unpredictable nature of off-road environments poses unique challenges and opens avenues for all aspects of robotic research. The goal of this workshop is to engage experts and researchers in off-road autonomy, in a broad coverage of public datasets, benchmarks, software stacks, infrastructures, state estimation, semantic segmentation, traversability estimation, terrain analysis, planning, dynamics model, domain adaptation, and more.
 
-This will be a full-day workshop. It will feature a mix of presentations, open panel discussions, and an invited poster session. There will be eight invited speakers and a keynote speaker to discuss their related research, thoughts, and experiences in various directions within off-road autonomy. The workshop aims to foster discussion, share insights, and encourage collaborations among experts from academia, industry, and research institutions, as well as to identify the key challenges and opportunities in the advancement of off-road autonomy technologies.
+This will be a full-day workshop. It will feature a mix of presentations, open panel discussions, and an invited poster session. There will be seven invited speakers to discuss their related research, thoughts, and experiences in various directions within off-road autonomy. The workshop aims to foster discussion, share insights, and encourage collaborations among experts from academia, industry, and research institutions, as well as to identify the key challenges and opportunities in the advancement of off-road autonomy technologies.
 
 ## Organizers
 
@@ -79,7 +79,7 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
   <div class="column">
     <img src="images/speakers/popovic.png" alt="popovic" style="width:100%">
     <figcaption>
-        <a href="https://en.wikipedia.org/wiki/Peter_Griffin">Marija Popović</a>
+        <a href="https://www.tudelft.nl/en/staff/m.popovic/?cHash=9c4e89537f3df185c588b06c8bece9d2">Marija Popović</a>
     </figcaption>
   </div>
   <div class="column">
@@ -157,17 +157,17 @@ Submissions should be short papers up to 4 pages in PDF format (not counting ref
 Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 --- | ---
 8:45-9:00 | Welcome
-9:00-9:20 | Keynote 1: Radar Localization for Driving Off the Road (Tim Barfoot)
-9:20-9:40 | Keynote 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
-9:40-10:00 | Keynote 3: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
+9:00-9:20 | Invited Talk 1: Radar Localization for Driving Off the Road (Tim Barfoot)
+9:20-9:40 | Invited Talk 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
+9:40-10:00 | Invited Talk 3: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
 10:00-10:20 | Coffee break.
-10:20-10:40 | Keynote 4: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
-10:40-11:00 | Keynote 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
+10:20-10:40 | Invited Talk 4: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
+10:40-11:00 | Invited Talk 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
 11:00-11:20 | Poster Oral Session A: Spotlight Talks.
 11:20-12:20 | Poster Session: Attendees can walk around to view the posters.
 12:20-1:20 | Lunch.
-1:20-1:40 | Keynote 6: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
-1:40-2:00 | Keynote 7: TBD (Marco Hutter)
+1:20-1:40 | Invited Talk 6: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
+1:40-2:00 | Invited Talk 7: TBD (Marco Hutter)
 2:00-2:20 | TBD.
 2:20-2:40 | Coffee Break.
 2:40-3:00 | TBD.
