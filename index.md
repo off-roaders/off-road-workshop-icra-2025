@@ -67,6 +67,61 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
   </div>    
 </div>
 
+## Steering Committee
+
+<div class="row">
+  <div class="column">
+    <img src="images/Steering_committee/saripalli.jpg" alt="saripalli" style="width:100%">
+    <figcaption>
+        <a href="https://theairlab.org/team/wenshan">Srikanth Saripalli</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/Steering_committee/basti.png" alt="basti" style="width:100%">
+    <figcaption>
+        <a href="https://theairlab.org/team/sebastian">Sebastian Scherer</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/Steering_committee/xuesu_xiao.jpg" alt="xiao" style="width:100%">
+    <figcaption>
+        <a href="https://cs.gmu.edu/~xiao/">Xuesu Xiao</a>
+    </figcaption>  
+  </div>
+  <div class="column">
+    <img src="images/Steering_committee/Maggie_Wigness.jpg" alt="Wigness" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/maggie-wigness/">Maggie Wigness</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/Steering_committee/valada.jpg" alt="valada" style="width:100%">
+    <figcaption>
+        <a href="https://rl.uni-freiburg.de/people/valada">Abhinav Valada</a>
+    </figcaption>
+  </div>    
+</div>
+<div class="row">
+  <div class="column">
+    <img src="images/Steering_committee/osteen.jpg" alt="osteen" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/phil-osteen-3bb19741/">Philip R Osteen</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/Steering_committee/rogers.jpg" alt="rogers" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/john-rogers-41921a12/">John Rogers</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/Steering_committee/Jason_gregory.jpg" alt="gregory" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/jason-gregory-88b70b167/">Jason Gregory</a>
+    </figcaption>  
+  </div>
+</div>
+
 ## Speakers
 
 <div class="row">
