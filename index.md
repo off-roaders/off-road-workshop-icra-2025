@@ -121,7 +121,7 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 - Submission deadline: Apr 8th 2024
 - Decision notification: Apr 21th 2024
 - Camera-ready deadline: May 7th 2024
-- Workshop: May 17th 2024
+- Workshop: TBD
 
 
 ## Topics Covered
@@ -129,15 +129,21 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 - Multi-modal perception
 - Self-supervised learning
 - Sim-to-real transfer
+- Sensor fusion techniques (modalities such as radar, thermal, and event camera).
+- Learning-based methods for off-road navigation
 - Online adaptation
 - Traversability estimation
 - Foundation models for navigation
 - Heterogeneous collaborative robots
-- Off-road driving dataset
+- Data collection and generation techniques for off-road environments
+- off-road driving datasets
+- Cross-domain transfer for off-road applications
+- Scene understanding and reconstruction (e.g. but not limited to, NeRF, Neural Representations)
+- Open-set visual recognition methods under constrained conditions (image and video classification, object detection, and segmentation)
 - Safe robot operation in uncertain and dynamic environments
 - Planning without prior knowledge of an environment
 - Approaches to off-road driving that work on multiple types of robots
-- Long-term localization and mapping in complex environments
+- Long-term localization and mapping in complex/GPS-denied environments
 - Representations of terrain that model physical properties and robot-environment interaction
 
 
@@ -172,11 +178,5 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 4:20-4:40 | Poster Session: Attendees can walk around to view the posters.
 4:40-5:00 | Closing remarks: Workshop ends.
 
-<a name="accepted-papers"></a>   
-## Accepted Papers
 
-
-[Openreview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/Off-road_Autonomy#tab-accept-oral)
-
-1. [TartanDrive 2.0: More Modalities and Better Infrastructure to Further Self-Supervised Learning Research in Off-Road Driving Tasks.](https://arxiv.org/abs/2402.01913), <b><a href="https://theairlab.org/TartanDrive2/"><span style="color:tomato;">Dataset</span></a></b>,  <b><a href="https://github.com/castacks/tartan_drive_2.0"><span style="color:tomato;">Code</span></a></b>
  
