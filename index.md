@@ -36,15 +36,27 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 <div class="row">
   <div class="column">
-    <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%">
+    <img src="images/organizers/peng.png" alt="peng" style="width:100%">
     <figcaption>
-        <a href="https://theairlab.org/team/wenshan">Wenshan Wang</a>
+        <a href="https://www.linkedin.com/in/peng-jiang-8a6926128/">Peng Jiang</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/basti.png" alt="basti" style="width:100%">
+    <img src="images/organizers/Gautam.jpg" alt="Gautam" style="width:100%">
     <figcaption>
-        <a href="https://theairlab.org/team/sebastian">Sebastian Scherer</a>
+        <a href="https://www.linkedin.com/in/alvikagautam">Alvika Gautam</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/Kasi_Viswanath.jpg" alt="kasi" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/kasi-viswanath-4197851b6/">Kasi Viswanath</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/Akhil.jpg" alt="akhil" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/akhil-nagariya/">Akhil Nagariya</a>
     </figcaption>
   </div>
   <div class="column">
@@ -53,10 +65,18 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
         <a href="https://theairlab.org/team/sam_triest/">Samuel Triest</a>
     </figcaption>  
   </div>
+</div>
+<div class="row">
   <div class="column">
-    <img src="images/organizers/cherie.png" alt="cherie" style="width:100%">
+    <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%">
     <figcaption>
-        <a href="https://cherieho.com/">Cherie Ho</a>
+        <a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/Christian_ellis.jpg" alt="christian" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/christian-ellis-research/">Christian Ellis</a>
     </figcaption>
   </div>
   <div class="column">
@@ -64,7 +84,19 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
     <figcaption>
         <a href="https://shubhraaich.github.io/">Shubhra Aich</a>
     </figcaption>
-  </div>    
+  </div>
+  <div class="column">
+    <img src="images/organizers/matthew.jpg" alt="matthew" style="width:100%">
+    <figcaption>
+        <a href="https://matthewjsiv.github.io/">Matthew Sivaprakasam</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/tyler_han.png" alt="tyler" style="width:100%">
+    <figcaption>
+        <a href="https://thanandnow.github.io/">Tyler Han</a>
+    </figcaption>  
+  </div>
 </div>
 
 ## Steering Committee
