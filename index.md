@@ -36,31 +36,31 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 <div class="row">
   <div class="column">
-    <img src="images/organizers/peng.png" alt="peng" style="width:100%">
+    <img src="images/organizers/peng_jiang.png" alt="peng" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/peng-jiang-8a6926128/">Peng Jiang</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Gautam.jpg" alt="Gautam" style="width:100%">
+    <img src="images/organizers/Gautam.jpg" alt="Gautam" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/alvikagautam">Alvika Gautam</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Kasi_Viswanath.jpg" alt="kasi" style="width:100%">
+    <img src="images/organizers/Kasi_Viswanath.jpg" alt="kasi" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/kasi-viswanath-4197851b6/">Kasi Viswanath</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Akhil.jpg" alt="akhil" style="width:100%">
+    <img src="images/organizers/Akhil.jpg" alt="akhil" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/akhil-nagariya/">Akhil Nagariya</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/sam.png" alt="sam" style="width:100%">
+    <img src="images/organizers/sam.png" alt="sam" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://theairlab.org/team/sam_triest/">Samuel Triest</a>
     </figcaption>  
@@ -68,31 +68,31 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 </div>
 <div class="row">
   <div class="column">
-    <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%">
+    <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Christian_ellis.jpg" alt="christian" style="width:100%">
+    <img src="images/organizers/Christian_ellis.jpg" alt="christian" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/christian-ellis-research/">Christian Ellis</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/saich.png" alt="saich" style="width:100%">
+    <img src="images/organizers/saich.png" alt="saich" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://shubhraaich.github.io/">Shubhra Aich</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/matthew.jpg" alt="matthew" style="width:100%">
+    <img src="images/organizers/matthew.png" alt="matthew" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://matthewjsiv.github.io/">Matthew Sivaprakasam</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/tyler_han.png" alt="tyler" style="width:100%">
+    <img src="images/organizers/tyler_han.png" alt="tyler" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://thanandnow.github.io/">Tyler Han</a>
     </figcaption>  
@@ -100,25 +100,25 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 </div>
 <div class="row">
   <div class="column">
-    <img src="images/organizers/rohan_baijal.jpg" alt="rohan" style="width:100%">
+    <img src="images/organizers/rohan_baijal.png" alt="rohan" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://rohanblueboybaijal.github.io/">Rohan Baijal</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/mateo_castro.jpg" alt="mateo" style="width:100%">
+    <img src="images/organizers/mateo_castro.jpg" alt="mateo" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://mateoguaman.com/">Mateo Guaman Castro</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Ashwin_Menon.jpg" alt="ashwin" style="width:100%">
+    <img src="images/organizers/Ashwin_Menon.jpg" alt="ashwin" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/ashwin-menon-060147149/">Ashwin Menon</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/organizers/Eric_Damm.jpg" alt="eric" style="width:100%">
+    <img src="images/organizers/Eric_Damm.jpg" alt="eric" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/eric-damm-b7a05090/">Eric Damm</a>
     </figcaption>  
@@ -129,31 +129,31 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 <div class="row">
   <div class="column">
-    <img src="images/Steering_committee/saripalli.jpg" alt="saripalli" style="width:100%">
+    <img src="images/Steering_committee/saripalli.png" alt="saripalli" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://theairlab.org/team/wenshan">Srikanth Saripalli</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/Steering_committee/basti.png" alt="basti" style="width:100%">
+    <img src="images/Steering_committee/basti.png" alt="basti" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://theairlab.org/team/sebastian">Sebastian Scherer</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/Steering_committee/xuesu_xiao.jpg" alt="xiao" style="width:100%">
+    <img src="images/Steering_committee/xuesu_xiao.png" alt="xiao" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://cs.gmu.edu/~xiao/">Xuesu Xiao</a>
     </figcaption>  
   </div>
   <div class="column">
-    <img src="images/Steering_committee/Maggie_Wigness.jpg" alt="Wigness" style="width:100%">
+    <img src="images/Steering_committee/Maggie_Wigness.jpg" alt="Wigness" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/maggie-wigness/">Maggie Wigness</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/Steering_committee/valada.jpg" alt="valada" style="width:100%">
+    <img src="images/Steering_committee/valada.png" alt="valada" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://rl.uni-freiburg.de/people/valada">Abhinav Valada</a>
     </figcaption>
@@ -161,19 +161,19 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 </div>
 <div class="row">
   <div class="column">
-    <img src="images/Steering_committee/osteen.jpg" alt="osteen" style="width:100%">
+    <img src="images/Steering_committee/osteen.jpg" alt="osteen" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/phil-osteen-3bb19741/">Philip R Osteen</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/Steering_committee/rogers.jpg" alt="rogers" style="width:100%">
+    <img src="images/Steering_committee/rogers.jpg" alt="rogers" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/john-rogers-41921a12/">John Rogers</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/Steering_committee/Jason_gregory.jpg" alt="gregory" style="width:100%">
+    <img src="images/Steering_committee/Jason_gregory.jpg" alt="gregory" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.linkedin.com/in/jason-gregory-88b70b167/">Jason Gregory</a>
     </figcaption>  
@@ -184,56 +184,93 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 <div class="row">
   <div class="column">
-    <img src="images/speakers/barfoot.png" alt="barfoot" style="width:100%">
+    <img src="images/speakers/barfoot.png" alt="barfoot" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="http://asrl.utias.utoronto.ca/~tdb/">Tim Barfoot</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/popovic.png" alt="popovic" style="width:100%">
+    <img src="images/speakers/popovic.png" alt="popovic" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.tudelft.nl/en/staff/m.popovic/?cHash=9c4e89537f3df185c588b06c8bece9d2">Marija Popović</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/matthies.png" alt="matthies" style="width:100%">
+    <img src="images/speakers/matthies.png" alt="matthies" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://robotics.jpl.nasa.gov/who-we-are/people/larry_matthies/">Larry Matthies</a>
     </figcaption>
   </div>  
   <div class="column">
-    <img src="images/speakers/manocha.png" alt="manocha" style="width:100%">
+    <img src="images/speakers/manocha.png" alt="manocha" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.cs.umd.edu/people/dmanocha">Dinesh Manocha</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/young.png" alt="young" style="width:100%">
+    <img src="images/speakers/young.png" alt="young" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://www.darpa.mil/staff/dr-stuart-young">Stuart Young</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/myung.png" alt="myung" style="width:100%">
+    <img src="images/speakers/myung.png" alt="myung" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/">Hyun Myung</a>
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/hutter.png" alt="hutter" style="width:100%">
+    <img src="images/speakers/hutter.png" alt="hutter" style="width:100%; border-radius: 50%;">
     <figcaption>
         <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Marco Hutter</a>
     </figcaption>
-  </div>        
+  </div>     
+  <div class="column">
+    <img src="images/speakers/byron-boots.png" alt="boots" style="width:100%; border-radius: 50%;">
+    <figcaption>
+        <a href="https://homes.cs.washington.edu/~bboots/">Byron Boots
+</a>
+    </figcaption>
+  </div>    
+  <div class="column">
+    <img src="images/speakers/wolfram_burgard.png" alt="burgard" style="width:100%; border-radius: 50%;">
+    <figcaption>
+        <a href="http://www2.informatik.uni-freiburg.de/~burgard/">Wolfram Burgard
+</a>
+    </figcaption>
+  </div>  
 </div>
+
+## Challenge
+
+Ahead of the event, we are excited to announce a **competitive challenge** centered around a newly developed off-road dataset. This challenge is designed to push the boundaries of innovation in off-road autonomy, featuring cutting-edge tasks such as:
+
+- **Zero-Shot Semantic Segmentation**
+- **Novel View Synthesis for Off-Road Scenes**
+- **Multimodal Off-Road Odometry**
+
+We aim for this challenge to spark practical innovations and establish an objective benchmark for evaluating new methods in off-road robotics. 
+
+### How to Participate
+
+Participants will be tasked with developing novel solutions to these challenges using our newly released dataset, available at the following links:
+
+- [ROAR Challenge Information](http://www.unmannedlab.org/roar_challenge/)
+- [The Great Outdoors Dataset](http://www.unmannedlab.org/the-great-outdoors-dataset/)
+
+### Recognition and Awards
+
+Challenge winners will be invited to present their solutions at the workshop, providing an opportunity to showcase their work to a broader audience and contribute to advancements in off-road robotics.
+
+We look forward to seeing innovative contributions from the community and to furthering the state of the art in off-road autonomy.
 
 
 ## Important Dates
 
-- Submissions open: Feb 1st 2024
-- Submission deadline: Apr 8th 2024
-- Decision notification: Apr 21th 2024
-- Camera-ready deadline: May 7th 2024
+- Submissions open: Feb 1st 2025
+- Submission deadline: Apr 8th 2025
+- Decision notification: Apr 21th 2025
+- Camera-ready deadline: May 7th 2025
 - Workshop: TBD
 
 
@@ -281,9 +318,9 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 12:20-1:20 | Lunch.
 1:20-1:40 | Invited Talk 6: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
 1:40-2:00 | Invited Talk 7: TBD (Marco Hutter)
-2:00-2:20 | TBD.
+2:00-2:20 | Invited Talk 8: TBD (Byron Boots)
 2:20-2:40 | Coffee Break.
-2:40-3:00 | TBD.
+2:40-3:00 | Invited Talk 8: TBD (Wolfram Burgard)
 3:00-3:20 | Panel Discussion.
 3:20-3:40 | TBD.
 3:40-4:00 | Poster Oral Session B: Spotlight Talks.
