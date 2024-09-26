@@ -98,6 +98,32 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
     </figcaption>  
   </div>
 </div>
+<div class="row">
+  <div class="column">
+    <img src="images/organizers/rohan_baijal.jpg" alt="rohan" style="width:100%">
+    <figcaption>
+        <a href="https://rohanblueboybaijal.github.io/">Rohan Baijal</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/mateo_castro.jpg" alt="mateo" style="width:100%">
+    <figcaption>
+        <a href="https://mateoguaman.com/">Mateo Guaman Castro</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/Ashwin_Menon.jpg" alt="ashwin" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/ashwin-menon-060147149/">Ashwin Menon</a>
+    </figcaption>
+  </div>
+  <div class="column">
+    <img src="images/organizers/Eric_Damm.jpg" alt="eric" style="width:100%">
+    <figcaption>
+        <a href="https://www.linkedin.com/in/eric-damm-b7a05090/">Eric Damm</a>
+    </figcaption>  
+  </div>
+</div>
 
 ## Steering Committee
 
